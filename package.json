@@ -1,0 +1,24 @@
+{
+  "name": "bindiwork-server",
+  "version": "1.0.0",
+  "description": "A Bindiwork api server build in nodejs and nestjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tandacedric/bindiwork-server.git"
+  },
+  "keywords": [
+    "BindiWork",
+    "api",
+    "nestjs",
+    "nodejs"
+  ],
+  "author": "Cedric TANDA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tandacedric/bindiwork-server/issues"
+  },
+  "homepage": "https://github.com/tandacedric/bindiwork-server#readme"
+}
